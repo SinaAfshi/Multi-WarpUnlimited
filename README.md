@@ -9,7 +9,7 @@ Feature :
 ------------------------------
 Installation :
 apt-get install git python3
-git clone https://github.com/AnukarOP/Multi-WarpUnlimited
+git clone https://github.com/sinaafshar1374/Multi-WarpUnlimited
 cd Multi-WarpUnlimited
 pip3 install -r requirements.txt
 python3 unlimited_warp.py
